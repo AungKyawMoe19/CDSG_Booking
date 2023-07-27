@@ -1,3 +1,3 @@
 
-This is small mini project about Booking Items(laptop, phone, electronic devices,etc...)
+This is small mini project about Booking Items(Laptop, Phone, Electronic Devices,etc...)
 
